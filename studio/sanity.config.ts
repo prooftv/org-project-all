@@ -41,7 +41,7 @@ export default createConfig({
   name: 'default',
   title: 'Mid Wales Arts',
 
-  projectId: '',
+  projectId: 'e78eosta',
   dataset: 'production',
 
   plugins: withDocumentI18nPlugin(
